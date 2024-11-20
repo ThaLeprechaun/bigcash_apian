@@ -1,0 +1,1 @@
+window.location.href = "http://api.ydaplatform.com/sync/enrichment";
